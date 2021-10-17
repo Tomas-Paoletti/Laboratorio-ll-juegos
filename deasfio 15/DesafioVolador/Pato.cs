@@ -8,7 +8,12 @@ namespace DesafioVolador
 {
     class Pato: Ivolador 
     {
-        private int energia;
+        private int energia=100;
+        public void volador()
+        {
+            energia -= 3;
+            Console.WriteLine("estoy volando soy un pato cuak");
+        }
 
     }
 }

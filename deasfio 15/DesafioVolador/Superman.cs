@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace DesafioVolador
 {
-    class Program
+    class Superman: Ivolador
     {
-        static void Main(string[] args)
+        private int xp = 0;
+        public void volador()
         {
-            
+            Console.WriteLine("Estoy volando como un campeon");
+            xp += 3;
         }
     }
 }
