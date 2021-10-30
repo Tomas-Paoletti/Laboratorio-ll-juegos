@@ -1,7 +1,0 @@
-C:\Users\tomia\Desktop\Laboratorio-ll-juegos\Desafio15\bin\Debug\Desafio15.exe.config
-C:\Users\tomia\Desktop\Laboratorio-ll-juegos\Desafio15\bin\Debug\Desafio15.exe
-C:\Users\tomia\Desktop\Laboratorio-ll-juegos\Desafio15\bin\Debug\Desafio15.pdb
-C:\Users\tomia\Desktop\Laboratorio-ll-juegos\Desafio15\obj\Debug\Desafio15.csproj.AssemblyReference.cache
-C:\Users\tomia\Desktop\Laboratorio-ll-juegos\Desafio15\obj\Debug\Desafio15.csproj.CoreCompileInputs.cache
-C:\Users\tomia\Desktop\Laboratorio-ll-juegos\Desafio15\obj\Debug\Desafio15.exe
-C:\Users\tomia\Desktop\Laboratorio-ll-juegos\Desafio15\obj\Debug\Desafio15.pdb
